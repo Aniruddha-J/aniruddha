@@ -1,7 +1,7 @@
 #include<iostream>
-using namespace ;
+using namespace std;
 int main()
 {
-    std::cout<<"hi";
-    std::cout<<"hi";
+    cout<<"hi";
+    cout<<"hi";
 }
